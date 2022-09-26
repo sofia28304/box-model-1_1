@@ -1,0 +1,15 @@
+p {
+    width: 200px;
+    background-color: teal;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 8px solid black;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/* hier kein inline weil sichdas mit den links/rechts margins nicht verträgt. */
